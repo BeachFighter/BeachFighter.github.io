@@ -1,0 +1,33 @@
+body
+{
+	 background-image: linear-gradient(to bottom right, purple, cyan);
+	min-height:100vh;
+
+
+}
+.stitle
+{
+	place-items: center;
+	color: yellow;
+	font-size: 300%;
+	margin-top: 10px;
+}
+.ClickImage
+	{
+		border: 5px solid black;
+		margin: 30px;
+		text-align: center;
+	}
+	.contain
+	{
+	display:flex;
+	justify-content:center;
+	align-items: center;	
+	}
+.CenTxtBox
+{
+	Width: 50%;
+	text-align: center;
+	font-size: 130%;
+	border: 5px ridge rgba(0, 200, 255, 0.3);
+}
